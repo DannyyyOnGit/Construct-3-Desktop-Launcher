@@ -1,0 +1,63 @@
+[img="https://drive.google.com/uc?export=download&id=1-fwTmOlK8PmU3Um-3DBf8HcHfm4X0JfL"]
+[tabgroup]
+[tab title="Software Information"]
+[h2]File Downloads[/h2]
+[b]Construct 3 Desktop Launcher:[/b] [url=#]Download[/url] | [b]Construct 3 Desktop Releases:[/b] [url=https://www.construct.net/en/forum/construct-3/general-discussion-7/construct-3-desktop-build-beta-131317#forumPost923348]Download[/url]
+
+[h2]Software Description[/h2]
+This software makes it easier to switch between Construct 3 Desktop Stable/Beta releases. Works with any release channel version of Construct 3 desktop on Windows.
+
+[h2]Construct 3 Launcher - Instructions[/h2]
+How to install and use the Construct 3 Desktop Launcher:
+[ol]
+    [li]Download and unzip all files and folders[/li]
+    [li]Directly paste the C3 launcher executable and dependencies folder into your Construct 3 Desktop folder (where the Construct3.exe is)[/li]
+    [li]Execute the launcher and pick your release (stable/beta)[/li]
+    [li]Enjoy your Construct 3 Desktop experience with release control[/li]
+[/ol]
+
+[h2]Construct 3 Launcher - FAQ[/h2]
+What are the system requirements?
+[i]Windows 95+ ; ~3mb disk space; 25mb RAM; DirectX 9.0c[/i]
+
+Do I always have to use the C3 launcher now?
+[i]No! You just have to launch the stable/beta release once. Construct 3 Desktop will always run based on that decision.[/i]
+
+Can I keep launching Construct 3 Desktop by running directly running project files?
+[i]Yes! Once you've launched the release version your like, you can keep running Construct 3 Desktop by directly clicking on the executable or project files (e.g. c3p file).[/i]
+
+Why do I need this, what has been made more simple?
+[i]As things currently are, Construct 3 Desktop user are required to opt into either the Stable channel or Beta Channel version of C3 Desktop. This launcher makes things easier and doesn't require any specific release channel.[/i]
+
+
+The Construct 3 Desktop Topic offers 2 release channels, which one do I need?
+[i]It doesn't matter. The launcher works with any release channel version of Construct 3 Desktop.[/i]
+
+
+[/tab]
+[tab title="Software Features"]
+[h2]Featured Highlights:[/h2]
+[ul]
+[li]Simple launcher to switch between Construct 3 Stable/Beta[/li]
+[li]Easy to use and as fast as possible thanks to DirectX 9[/li]
+[li]Compatible with directly opening c3p and project files (permanent switch)[/li]
+[li]Open package manifest files for custom modifications (for advanced users)[/li]
+[/ul]
+[/tab]
+[tab title="Software Changelog"]
+[h2]Version 1.2[/h2]
+[b]<Added>[/b] Design elements based on Construct 3
+[b]<Added>[/b] External link to C3 launcher topic
+[b]<Other>[/b] Changed icon colors on mouse hover
+
+[h2]Version 1.1[/h2]
+[b]<Fixed>[/b] Process detection to automatically close launcher when C3 starts
+[b]<Other>[/b] Removed Python requirement (2.5mb)
+[/tab]
+[tab title="Credits & References"]
+[ul]
+[li]Thanks to [@Armaldio] for testing on Windows 10![/li]
+[li]Software created using Construct Classic ([url=https://www.scirra.com/construct-classic]Open Link ?[/url])[/li]
+[/ul]
+[/tab]
+[/tabgroup]
