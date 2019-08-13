@@ -1,5 +1,5 @@
 {
-	"main": "https://editor.construct.net/beta",
+	"main": "https://editor.construct.net",
 	"node-remote": ["https://editor.construct.net", "https://preview.construct.net"],
 	"name": "construct3",
 	"description": "Create games and apps without programming",
@@ -13,7 +13,7 @@
 		"icon": "icon.png",
 		"show": false
 	},
-	"chromium-args": "--disable-features=CrossSiteDocumentBlockingAlways,CrossSiteDocumentBlockingIfIsolating",
+	"chromium-args": "--enable-node-worker",
 	"webkit": {
 		"plugin": false,
 		"double_tap_to_zoom_enabled": false
