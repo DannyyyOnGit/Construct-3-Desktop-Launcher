@@ -2,7 +2,7 @@
 
 # Links
 - <b>Construct 3 - Simple Launcher:</b> <a href="https://www.construct.net/en/forum/construct-3/general-discussion-7/construct-desktop-simple-139502">Link ➚</a>
-- <b>Construct 3 Desktop:</b> <a href="https://www.construct.net/en/forum/construct-3/general-discussion-7/construct-desktop-build-beta-131317">Link ➚</a>
+- <b>Construct 3 - Desktop Release:</b> <a href="https://www.construct.net/en/forum/construct-3/general-discussion-7/construct-desktop-build-beta-131317">Link ➚</a>
 - <b>Construct Community Discord:</b> <a href="https://discord.gg/dZDU7Re">Link ➚</a>
 
 ## Contributions
