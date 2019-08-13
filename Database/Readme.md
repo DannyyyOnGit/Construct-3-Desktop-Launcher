@@ -1,5 +1,5 @@
 # Manifest Info
-**appver** = Version of the application. (200 equals: V.2.0.0)
+**appver** = Version of the application. (Example > 200 equals: V.2.0.0)
 
 **updver** = Version if the app updater.
 
