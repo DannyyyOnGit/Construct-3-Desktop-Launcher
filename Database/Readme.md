@@ -5,7 +5,9 @@
 
 **depver** = Version of the dependency files.
 
-**c3ver** = Latest download of Construct 3 Desktop (stable).
+**applink** = Latest download of Construct 3 - Simple Launcher.
+
+**c3link** = Latest download of Construct 3 Desktop (stable).
 
 # Releases List
 https://us-central1-construct2discord.cloudfunctions.net/c3release
