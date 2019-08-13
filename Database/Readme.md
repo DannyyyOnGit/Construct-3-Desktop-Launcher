@@ -5,7 +5,7 @@
 
 **depver** = Version of the dependency files.
 
-**c3ver** = Latest version download of stable Construct 3 Desktop.
+**c3ver** = Latest download of Construct 3 Desktop (stable).
 
 **nwjsver** = NWjs version used by latest C3 Desktop release.
 
