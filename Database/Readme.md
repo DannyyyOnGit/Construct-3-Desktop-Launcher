@@ -7,7 +7,5 @@
 
 **c3ver** = Latest download of Construct 3 Desktop (stable).
 
-**nwjsver** = NWjs version used by latest C3 Desktop release.
-
 # Releases List
 https://us-central1-construct2discord.cloudfunctions.net/c3release
