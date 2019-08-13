@@ -1,8 +1,12 @@
 # Manifest Info
 **appver** = Version of the application. (200 equals: V.2.0.0)
+
 **updver** = Version if the app updater.
+
 **depver** = Version of the dependency files.
+
 **c3ver** = Latest version download of stable Construct 3 Desktop.
+
 **nwjsver** = NWjs version used by latest C3 Desktop release.
 
 # Releases List
