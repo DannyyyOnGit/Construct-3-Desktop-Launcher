@@ -1,7 +1,7 @@
 # Manifest Info
 **appver** = Version of the application. (Example > 200 equals: V.2.0.0)
 
-**updver** = Version if the app updater.
+**updver** = Version of the application updater.
 
 **depver** = Version of the dependency files.
 
