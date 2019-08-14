@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <persistence>
     <windows>
-        <event-sheet name="Launch" active="no" />
-        <event-sheet name="Main" active="yes" />
+        <layout name="Launch" scroll-x="0" scroll-y="299" active="no" />
+        <layout name="Main" scroll-x="0" scroll-y="287" active="no" />
     </windows>
 </persistence>
