@@ -1,4 +1,4 @@
-﻿<p align="center"><img src="https://raw.githubusercontent.com/TheRealDannyyy/Construct-3-Desktop-Simple-Launcher/master/Distribution/header2.png"></p>
+﻿<p align="center"><img src="https://raw.githubusercontent.com/TheRealDannyyy/Construct-3-Desktop-Simple-Launcher/master/Distribution/headernew3.png"></p>
 
 # Links
 - <b>Construct 3 - Simple Launcher:</b> <a href="https://www.construct.net/en/forum/construct-3/general-discussion-7/construct-desktop-simple-139502">Link ➚</a>
