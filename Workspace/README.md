@@ -7,4 +7,4 @@
 6. Set custom execution level [Appmain = "highestAvailable" | Appupdater = "requireAdministrator"]
 7. Compile script and save
 8. Remove orginal backup file
-9. Put exe into selected release build
+9. Put exe into appexports folder
