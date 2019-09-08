@@ -1,5 +1,7 @@
 # Manifest Info
 
+**appver** = Latest version of the main application
+
 **applink** = Latest download of Construct 3 - Simple Launcher.
 
 **c3link** = Latest download of Construct 3 Desktop (stable).
