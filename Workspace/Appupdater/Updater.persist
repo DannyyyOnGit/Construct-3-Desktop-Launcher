@@ -1,6 +1,0 @@
-<?xml version="1.0" ?>
-<persistence>
-    <windows>
-        <layout name="Main" scroll-x="103" scroll-y="209" active="yes" />
-    </windows>
-</persistence>
