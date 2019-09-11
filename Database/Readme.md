@@ -4,9 +4,9 @@
 
 **applink** = Latest download of Construct 3 - Simple Launcher.
 
-**c3link** = Latest download of Construct 3 Desktop (stable).
+**c3linkO** = Latest download of Construct 3 Desktop (stable).
 
-**c3linkC** = Latest download of Construct 3 Desktop (custom).
+**c3linkNW** = Latest download of Construct 3 Desktop (custom).
 
 **packlink** = Latest package.json file for NWjs.
 
