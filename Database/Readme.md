@@ -2,7 +2,7 @@
 
 **appver** = Latest version of the main application
 
-**applink** = Latest download of Construct 3 - Simple Launcher
+**applink** = Latest download of Construct 3 - Launcher
 
 **c3linkO** = Latest download of Construct 3 Desktop (stable)
 
