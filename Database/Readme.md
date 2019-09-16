@@ -10,8 +10,4 @@
 
 **packlink** = Latest package.json file for NWjs.
 
-**rellinkA** = Latest version of releases list (all).
-
-**rellinkS** = Latest version of releases list (stable).
-
-**rellinkB** = Latest version of releases list (beta).
+**rellink** = Latest version of releases list (all / + ?filter=stable / + ?filter=beta)
