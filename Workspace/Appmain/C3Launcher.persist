@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <persistence>
     <windows>
-        <layout name="Launch" scroll-x="272" scroll-y="407" active="no" />
-        <layout name="Main" scroll-x="319" scroll-y="324" active="yes" />
+        <layout name="Launch" scroll-x="0" scroll-y="380" active="no" />
+        <layout name="Main" scroll-x="406" scroll-y="324" active="yes" />
     </windows>
 </persistence>
