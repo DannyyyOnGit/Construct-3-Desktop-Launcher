@@ -2,6 +2,6 @@
 <persistence>
     <windows>
         <layout name="Launch" scroll-x="0" scroll-y="380" active="no" />
-        <layout name="Main" scroll-x="406" scroll-y="324" active="yes" />
+        <layout name="Main" scroll-x="381" scroll-y="284" active="yes" />
     </windows>
 </persistence>
