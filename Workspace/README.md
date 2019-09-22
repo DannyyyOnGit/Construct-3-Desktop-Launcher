@@ -4,7 +4,7 @@
 3. Reshack > Action > Replace icon
 4. Replace with selected icon
 5. Reshack > Open adress: 24-1-1033
-6. Set custom execution level [Appmain = "highestAvailable" | Appupdater = "requireAdministrator"]
+6. Set custom execution level [Appupdater = "requireAdministrator"]
 7. Compile script and save
 8. Remove orginal backup file
 9. Put exe into appexports folder
