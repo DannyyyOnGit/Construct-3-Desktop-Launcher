@@ -2,6 +2,6 @@
 <persistence>
     <windows>
         <event-sheet name="Launch" active="no" />
-        <layout name="Main" scroll-x="203" scroll-y="297" active="yes" />
+        <event-sheet name="Main" active="yes" />
     </windows>
 </persistence>
