@@ -20,6 +20,3 @@ Steps to reproduce the behavior:
 
 
 **Screenshots**
-
-
-**Desktop OS:**
