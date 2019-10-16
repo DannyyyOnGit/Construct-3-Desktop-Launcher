@@ -3,6 +3,7 @@
 2. Increment "appver" inside database manifest file (ALSO INCREMENT VARIABLE INSIDE APP ITSELF!)
 3. Move archive into releases folder and upload
 4. Update "applink" inside database manifest file
+5. Post update info on forum
 
 # How To Upload Custom NWjs Builds
 1. Download latest Win 64 stable SDK build (https://nwjs.io/downloads/)
