@@ -10,7 +10,7 @@
 1. Download latest Win 64 stable SDK build (https://nwjs.io/downloads/)
 2. Rename "nw.exe" to "Construct3.exe"
 3. Copy "icon.png" from "NWJSexports" into build folder
-4. Create release on GitHub and upload archive (delete old)
+4. Create release on GitHub and upload archive
 5. Increment "c3verNW" inside database manifest file
 6. Update "c3linkNW" inside database manifest file
 
