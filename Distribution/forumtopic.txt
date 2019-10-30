@@ -2,56 +2,37 @@
 [tabgroup]
 [tab title="Software Information"]
 [h2]Downloads[/h2]
-[b]Construct 3 - Simple Launcher:[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Simple-Launcher/raw/master/Releases/Construct%203%20-%20Simple%20Launcher%20V1.3.6.zip]Download ➚[/url] | [b]Construct 3 Desktop Releases:[/b] [url=https://www.construct.net/en/forum/construct-3/general-discussion-7/construct-3-desktop-build-beta-131317#forumPost923348]Download ➚[/url]
+[b]Construct 3 - Launcher:[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Launcher/raw/master/Releases/Construct%203%20-%20Launcher%20V2.0.0.zip]Download ➚[/url] | [b]GitHub (Source Code):[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Launcher]Open Link ➚[/url]
 
 [h2]Description[/h2]
-This software makes it easier to switch between Construct 3 Desktop stable, beta or selected custom releases. Custom releases allow you to launch and keep using specific versions of Construct 3.
+This software makes it easier to use the desktop build of Construct 3. Select custom release versions, enable developer features and automatically keep everything up to date.
 
-[i]Here is a screenshot of the simple interface:[/i]
-[img=https://raw.githubusercontent.com/TheRealDannyyy/Construct-3-Desktop-Simple-Launcher/master/Distribution/Construct%203%20-%20Simple%20Launcher.png]
-
-[h2]Install Instructions[/h2]
-How to install and use the [i]Construct 3 - Simple Launcher[/i]:
-[ol]
- [li]Download and unzip all files and folders[/li]
- [li]Put the executable file and dependencies folder into your Construct 3 Desktop folder[/li]
- [li]Run the launcher and pick your release (might require admin permissions)[/li]
- [li]Enjoy your Construct 3 Desktop experience with release and version management[/li]
-[/ol]
-
-
-[/tab]
-
-[tab title="Software Features"]
-[h2]Featured Highlights:[/h2]
+[h2]Features:[/h2]
 [ul]
-[li]Simple launcher to switch between Construct 3 stable, beta or custom releases[/li]
-[li]Easy to use and as fast as possible, thanks to DirectX[/li]
-[li]Compatible with directly opening c3p and project files[/li]
-[li]Open package manifest files for custom modifications (advanced users only)[/li]
+[li]Install the official Construct 3 build or custom builds[/li]
+[li]Run any stable, beta or selected release versions[/li]
+[li]One-click update any installed Construct 3 builds[/li]
+[li]Use advanced features like Chromium-Args or enable Safe Mode.[/li]
 [/ul]
-[/tab]
-
-[tab title="Software Q&A"]
-[h2]Construct 3 Launcher - Q&A[/h2]
-[b]► What are the system requirements?[/b]
-Windows 95+ ; ~5mb disk space; 30mb RAM; DirectX 9.0c
-
-[b]► Why do I need this, what has been made more "simple"?[/b]
-Construct 3 Desktop users are currently required to opt into the stable channel or beta channel version of C3 Desktop. This launcher makes things easier and doesn't require any specific release channel.
-
-[b]► Which Construct 3 Desktop release channel version do I need?[/b]
-It doesn't matter. The launcher works with any release channel version of Construct 3 Desktop.
-
-[b]► Do I always have to use the C3 launcher now?[/b]
-No! You just have to launch a release once. Construct 3 Desktop will always run based on that decision.
-
-[b]► Can I keep using Construct 3 Desktop by directly running project files?[/b]
-Yes! Once you've launched the release version you like, you can keep running Construct 3 Desktop, by directly clicking on the executable or project files (e.g. c3p files).
-
+[h2]Screenshot:[/h2]
+[img=https://raw.githubusercontent.com/TheRealDannyyy/Construct-3-Desktop-Launcher/master/Distribution/Construct%203%20-%20Launcher.PNG]
 [/tab]
 
 [tab title="Software Changelog"]
+[h2]Version 2.0.0[/h2]
+[b]<Added>[/b] Complete interface overhaul and new app updater software
+[b]<Added>[/b] Build-in Construct 3 - Launcher self updater
+[b]<Added>[/b] Build-in Construct 3 official release build downloader + updater
+[b]<Added>[/b] Build-in Construct 3 custom release build downloader + updater
+[b]<Added>[/b] Information on the latest available stable + beta release versions
+[b]<Added>[/b] Releases list version type filter (all/stable/beta)
+[b]<Added>[/b] Setting to launch Construct 3 in Safe mode (advanced)
+[b]<Added>[/b] Setting to launch Construct 3 with Chromium-Args (advanced)
+[b]<Added>[/b] Package.json manifest fetch (this previously required a complete app update)
+[b]<Fixed>[/b] Several issues reported by 3rd party testers during the beta
+
+[hr]
+
 [h2]Version 1.3.6[/h2]
 [b]<Added>[/b] The releases list will now remember the previously selected release
 [b]<Fixed>[/b] Wrong release version and sorting ([url=https://github.com/Scirra/Construct.net-website-bugs/issues/95]#95[/url])
@@ -90,10 +71,17 @@ Yes! Once you've launched the release version you like, you can keep running Con
 [b]<Other>[/b] Removed Python requirement (2.5mb)
 [/tab]
 
+[tab title="Legacy Launcher"]
+[h2]Simplified Legacy Launcher (Deprecated):[/h2]
+[b]Construct 3 - Simple Launcher:[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Simple-Launcher/raw/master/Releases/Construct%203%20-%20Simple%20Launcher%20V1.3.6.zip]Download ➚[/url]
+[h2]Screenshot:[/h2]
+[img=https://raw.githubusercontent.com/TheRealDannyyy/Construct-3-Desktop-Simple-Launcher/master/Distribution/Construct%203%20-%20Simple%20Launcher.png]
+[/tab]
+
 [tab title="Credits & References"]
-[h2]Construct 3 Launcher - About[/h2]
+[h2]About[/h2]
 [ul]
-[li]Thanks to [@Armaldio] for testing on Windows 10 and for providing the automatically updating Construct 3 version list![/li]
+[li]Thanks to [@Armaldio] for testing and for providing Construct 3 version list backend![/li]
 [li]Software created using Construct Classic ([url=https://www.scirra.com/construct-classic]Open Link ➚[/url])[/li]
 [/ul]
 [/tab]
