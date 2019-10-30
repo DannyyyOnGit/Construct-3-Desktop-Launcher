@@ -1,4 +1,4 @@
-[img="https://raw.githubusercontent.com/TheRealDannyyy/Construct-3-Desktop-Simple-Launcher/master/Distribution/header.png"]
+[img="https://raw.githubusercontent.com/TheRealDannyyy/Construct-3-Desktop-Launcher/master/Distribution/headernew1.png"]
 [tabgroup]
 [tab title="Software Information"]
 [h2]Downloads[/h2]
