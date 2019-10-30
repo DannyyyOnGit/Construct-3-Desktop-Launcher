@@ -21,9 +21,9 @@ This software makes it easier to use the desktop build of Construct 3. Select cu
 [tab title="Software Changelog"]
 [h2]Version 2.0.0[/h2]
 [b]<Added>[/b] Complete interface overhaul and new app updater software
-[b]<Added>[/b] Build-in Construct 3 - Launcher self updater
-[b]<Added>[/b] Build-in Construct 3 official release build downloader + updater
-[b]<Added>[/b] Build-in Construct 3 custom release build downloader + updater
+[b]<Added>[/b] Built-in Construct 3 - Launcher self updater
+[b]<Added>[/b] Built-in Construct 3 official release build downloader + updater
+[b]<Added>[/b] Built-in Construct 3 custom release build downloader + updater
 [b]<Added>[/b] Information on the latest available stable + beta release versions
 [b]<Added>[/b] Releases list version type filter (all/stable/beta)
 [b]<Added>[/b] Setting to launch Construct 3 in Safe mode (advanced)
