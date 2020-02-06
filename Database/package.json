@@ -13,7 +13,7 @@
 		"icon": "icon.png",
 		"show": false
 	},
-	"chromium-args": "--enable-node-worker #ARGS#",
+	"chromium-args": "--enable-node-worker --enable-features=NativeFileSystemAPI #ARGS#",
 	"webkit": {
 		"plugin": false,
 		"double_tap_to_zoom_enabled": false
