@@ -1,5 +1,5 @@
 {
-	"main": "https://editor.construct.net/#CUSTOM##SAFEMODE#",
+	"main": "https://editor.construct.net/#CUSTOM#",
 	"node-remote": ["https://editor.construct.net", "https://preview.construct.net"],
 	"name": "construct3",
 	"description": "Create games and apps without programming",
