@@ -6,7 +6,7 @@
 5. Update "applink" inside database manifest file
 6. Post update info on forum
 
-# How To Upload Custom NWjs Builds
+# How To Update Custom NWjs Builds
 1. Increment "c3verNW" inside database manifest file
 2. Update "c3linkNW" inside database manifest file
 
