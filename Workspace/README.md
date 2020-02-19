@@ -8,3 +8,8 @@
 7. Compile script and save
 8. Remove orginal backup file
 9. Put exe into appexports folder
+
+# Dependencies For Developers
+- Construct Classic R2
+- DirectX 9
+- Plugins (see dependencies folder)
