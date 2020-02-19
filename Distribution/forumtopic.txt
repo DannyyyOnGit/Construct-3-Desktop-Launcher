@@ -21,7 +21,7 @@ This software makes it easier to use the desktop build of Construct 3. Select cu
 [tab title="Software Changelog"]
 [h2]Version 2.1.0[/h2]
 [b]<Added>[/b] Safe Mode support for all release types
-[b]<Added>[/b] Shortcut to open Construct 3 folder to the bottom-left
+[b]<Added>[/b] Shortcut to open Construct 3 folder from the bottom-left
 [b]<Other>[/b] Custom NWjs releases are now directly being downloaded from NWjs.io and prepared locally
 [b]<Fixed>[/b] Possible appcrash after installing construct 3 on low-end PC's
 [b]<Fixed>[/b] Several smaller issues and improved general performance
