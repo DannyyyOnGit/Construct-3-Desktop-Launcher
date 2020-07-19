@@ -14,7 +14,7 @@
 
 **packlink** = Latest package.json file for NWjs
 
-**rellink** = Latest version of releases list (all / + ?filter=stable / + ?filter=beta)
+**rellink** = Latest version of releases list
 
 <hr>
 
