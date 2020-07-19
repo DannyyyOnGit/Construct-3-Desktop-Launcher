@@ -15,3 +15,15 @@
 **packlink** = Latest package.json file for NWjs
 
 **rellink** = Latest version of releases list (all / + ?filter=stable / + ?filter=beta)
+
+<hr>
+
+### C3 Release fetches:
+https://construct-utils.vercel.app/api/c3release
+https://construct-utils.vercel.app/api/c3release?filter=stable
+https://construct-utils.vercel.app/api/c3release?filter=beta
+
+### NWjs Release fetches:
+https://construct-utils.vercel.app/api/nwjsall
+https://construct-utils.vercel.app/api/nwjsstable
+https://construct-utils.vercel.app/api/nwjsbeta
