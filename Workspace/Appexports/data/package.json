@@ -10,6 +10,8 @@
 		"title": "Construct 3",
 		"width": 1280,
 		"height": 720,
+		"min_width": 400,
+		"min_height": 300,
 		"icon": "icon.png",
 		"show": false
 	},
