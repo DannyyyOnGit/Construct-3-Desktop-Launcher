@@ -5,11 +5,3 @@
 4. Increment "appver" inside database manifest file
 5. Update "applink" inside database manifest file
 6. Post update info on forum
-
-# How To Update Custom NWjs Builds
-1. Increment "c3verNW" inside database manifest file
-2. Update "c3linkNW" inside database manifest file
-
-# How To Update Official Builds
-1. Increment "c3verO" inside database manifest file
-2. Update "c3linkO" inside database manifest file
