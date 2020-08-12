@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <persistence>
     <windows>
-        <layout name="Main" scroll-x="90" scroll-y="209" active="yes" />
+        <event-sheet name="Main" active="yes" />
     </windows>
 </persistence>
