@@ -1,24 +1,37 @@
-[img="https://raw.githubusercontent.com/TheRealDannyyy/Construct-3-Desktop-Launcher/master/Distribution/Header2.png"]
+[img="https://raw.githubusercontent.com/TheRealDannyyy/Construct-3-Desktop-Launcher/master/Distribution/header.png"]
 [tabgroup]
 [tab title="Software Information"]
 [h2]Downloads[/h2]
 [b]Construct 3 - Launcher:[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Launcher/raw/master/Releases/Construct%203%20-%20Launcher%20V2.1.5.zip]Download ➚[/url] | [b]GitHub (Source Code):[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Launcher]Open Link ➚[/url]
 
 [h2]Description[/h2]
-This software makes it easier to use the desktop build of Construct 3. Select custom release versions, enable developer features and automatically keep everything up to date.
+This software makes it easier to use the NWjs desktop build of Construct 3. Select custom release versions, enable developer features and automatically keep everything up to date.
 
 [h2]Features:[/h2]
 [ul]
-[li]Install the official Construct 3 build or custom builds[/li]
-[li]Run any stable, beta or selected release versions[/li]
-[li]One-click update any installed Construct 3 builds[/li]
-[li]Use advanced features like Chromium-Args or enable Safe Mode.[/li]
+[li]Install the latest stable or custom Construct 3 release builds[/li]
+[li]Run any stable, beta or selected Construct 3 release versions[/li]
+[li]Update or downgrade any installed Construct 3 release builds[/li]
+[li]Use advanced features like [url=https://docs.nwjs.io/en/latest/References/Command%20Line%20Options/]Chromium-Args[/url] or enable [url=https://www.scirra.com/doc/c3sdk/safe-mode.html]Safe Mode[/url][/li]
 [/ul]
 [h2]Screenshot:[/h2]
 [img=https://raw.githubusercontent.com/TheRealDannyyy/Construct-3-Desktop-Launcher/master/Distribution/Construct%203%20-%20Launcher.PNG]
 [/tab]
 
 [tab title="Software Changelog"]
+[h2]Version 2.2.0[/h2]
+<Added> Design improvements and simplified things
+<Added> Custom NWjs builds and version selection
+<Fixed> Possible updater crash while fetching the C3 icon
+<Fixed> Possible case of save data corruption
+<Fixed> Bug with duplicate dependency downloads
+<Fixed> Updater not rendering fonts as clear-type
+<Other> Changed updating system to use web database (service provided by [@armaldio])
+<Other> Improved updater download processing speed
+<Other> Removed Official NWjs builds
+<Other> Removed "Window maximized" option (use "--start-maximized" arg. instead)
+<Other> Removed "Windows size" options (use "--window-size=800,600" arg. instead)
+
 [h2]Version 2.1.5[/h2]
 [b]<Added>[/b] Shortcuts to open latest Construct 3 changelog
 [b]<Added>[/b] Design improvements and simplified things
@@ -85,17 +98,10 @@ This software makes it easier to use the desktop build of Construct 3. Select cu
 [b]<Other>[/b] Removed Python requirement (2.5mb)
 [/tab]
 
-[tab title="Legacy Launcher"]
-[h2]Simplified Legacy Launcher (Deprecated):[/h2]
-[b]Construct 3 - Simple Launcher:[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Simple-Launcher/raw/master/Releases/Construct%203%20-%20Simple%20Launcher%20V1.3.6.zip]Download ➚[/url]
-[h2]Screenshot:[/h2]
-[img=https://raw.githubusercontent.com/TheRealDannyyy/Construct-3-Desktop-Simple-Launcher/master/Distribution/Construct%203%20-%20Simple%20Launcher.png]
-[/tab]
-
-[tab title="Credits & References"]
+[tab title="Contributions & References"]
 [h2]About[/h2]
 [ul]
-[li]Thanks to [@Armaldio] for testing and for providing Construct 3 version list backend![/li]
+[li]Thanks to [@Armaldio] for testing and for providing Construct 3 and NWjs version lists and web database![/li]
 [li]Software created using Construct Classic ([url=https://www.scirra.com/construct-classic]Open Link ➚[/url])[/li]
 [/ul]
 [/tab]

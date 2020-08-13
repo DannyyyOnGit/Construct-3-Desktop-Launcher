@@ -1,17 +1,7 @@
-[h2]Construct 3 - Launcher V2.0.0 Released![/h2]
-Complete overhaul of the launcher. It now does everything including downloading and updating Construct 3. Adding to the monthly Construct 3 official build updates, there are now future proof custom builds of Construct 3 available, for when [url=https://www.construct.net/en/forum/construct-3/general-discussion-7/construct-desktop-build-beta-131317/page-14#forumPost991203]the official builds get deprecated[/url].
+[h2]Construct 3 - Launcher V2.X.X Released![/h2]
+#texthere#
 
-[tip]
-[b]<Added>[/b] Complete interface overhaul and new app updater software
-[b]<Added>[/b] Built-in Construct 3 - Launcher self updater
-[b]<Added>[/b] Built-in Construct 3 official release build downloader + updater
-[b]<Added>[/b] Built-in Construct 3 custom release build downloader + updater
-[b]<Added>[/b] Information on the latest available stable + beta release versions
-[b]<Added>[/b] Releases list version type filter (all/stable/beta)
-[b]<Added>[/b] Setting to launch Construct 3 in Safe mode (advanced)
-[b]<Added>[/b] Setting to launch Construct 3 with Chromium-Args (advanced)
-[b]<Added>[/b] Package.json manifest fetch (this previously required a complete app update)
-[b]<Fixed>[/b] Several issues reported by 3rd party testers during the beta
-[/tip]
+[h3]Full Changelog[/h3]
+To view it, go to the Main Post and click the [b]Software Changelog[/b] tab.
 
 [i]Cheers![/i]
