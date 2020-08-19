@@ -19,18 +19,23 @@ This software makes it easier to use the NWjs desktop build of Construct 3. Sele
 [/tab]
 
 [tab title="Software Changelog"]
+[h2]Version 2.2.1[/h2]
+[b]<Fixed>[/b] Possible crash when receiving unknown error from web database
+[b]<Fixed>[/b] Backup warning when installing new custom NWjs release builds
+[b]<Fixed>[/b] Several smaller issues from the previous release
+
 [h2]Version 2.2.0[/h2]
-<Added> Design improvements and simplified things
-<Added> Custom NWjs builds and version selection
-<Fixed> Possible updater crash while fetching the C3 icon
-<Fixed> Possible case of save data corruption
-<Fixed> Bug with duplicate dependency downloads
-<Fixed> Updater not rendering fonts as clear-type
-<Other> Changed updating system to use web database (service provided by [@armaldio])
-<Other> Improved updater download processing speed
-<Other> Removed Official NWjs builds
-<Other> Removed "Window maximized" option (use "--start-maximized" arg. instead)
-<Other> Removed "Windows size" options (use "--window-size=800,600" arg. instead)
+[b]<Added>[/b] Design improvements and simplified things
+[b]<Added>[/b] Custom NWjs builds and version selection
+[b]<Fixed>[/b] Possible updater crash while fetching the C3 icon
+[b]<Fixed>[/b] Possible case of save data corruption
+[b]<Fixed>[/b] Bug with duplicate dependency downloads
+[b]<Fixed>[/b] Updater not rendering fonts as clear-type
+[b]<Other>[/b] Changed updating system to use web database (service provided by [@armaldio])
+[b]<Other>[/b] Improved updater download processing speed
+[b]<Other>[/b] Removed Official NWjs builds
+[b]<Other>[/b] Removed "Window maximized" option (use "--start-maximized" arg. instead)
+[b]<Other>[/b] Removed "Windows size" options (use "--window-size=800,600" arg. instead)
 
 [h2]Version 2.1.5[/h2]
 [b]<Added>[/b] Shortcuts to open latest Construct 3 changelog
