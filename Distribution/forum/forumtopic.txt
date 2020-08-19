@@ -2,7 +2,7 @@
 [tabgroup]
 [tab title="Software Information"]
 [h2]Downloads[/h2]
-[b]Construct 3 - Launcher:[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Launcher/raw/master/Releases/Construct%203%20-%20Launcher%20V2.2.0.zip]Download ➚[/url] | [b]GitHub (Source Code):[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Launcher]Open Link ➚[/url]
+[b]Construct 3 - Launcher:[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Launcher/raw/master/Releases/Construct%203%20-%20Launcher%20V2.2.1.zip]Download ➚[/url] | [b]GitHub (Source Code):[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Launcher]Open Link ➚[/url]
 
 [h2]Description[/h2]
 This software makes it easier to use the NWjs desktop build of Construct 3. Select custom release versions, enable developer features and automatically keep everything up to date.
