@@ -2,7 +2,7 @@
 [tabgroup]
 [tab title="Software Information"]
 [h2]Downloads[/h2]
-[b]Construct 3 - Launcher:[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Launcher/raw/master/Releases/Construct%203%20-%20Launcher%20V2.2.1.zip]Download ➚[/url] | [b]GitHub (Source Code):[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Launcher]Open Link ➚[/url]
+[b]Construct 3 - Launcher:[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Launcher/raw/master/Releases/Construct%203%20-%20Launcher%20V2.2.2.zip]Download ➚[/url] | [b]GitHub (Source Code):[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Launcher]Open Link ➚[/url]
 
 [h2]Description[/h2]
 This software makes it easier to use the NWjs desktop build of Construct 3. Select custom release versions, enable developer features and automatically keep everything up to date.
@@ -19,6 +19,14 @@ This software makes it easier to use the NWjs desktop build of Construct 3. Sele
 [/tab]
 
 [tab title="Software Changelog"]
+[h2]Version 2.2.2[/h2]
+[b]<Added>[/b] [F1] key shortcut to reset the window position (0x, 0y; top-left)
+[b]<Added>[/b] [F2] key shortcut to center the window position
+[b]<Added>[/b] Arrow keys support to move the Updater window
+[b]<Added>[/b] New Edit Chromium Args dialog with a "read manual" button
+[b]<Fixed>[/b] Appcrash caused by GPU's without Pixel Shader 2.0+ support
+[b]<Fixed>[/b] Custom NWjs version list fetch sometimes failing on startup
+
 [h2]Version 2.2.1[/h2]
 [b]<Fixed>[/b] Possible crash when receiving unknown error from web database
 [b]<Fixed>[/b] Backup warning when installing new custom NWjs release builds
