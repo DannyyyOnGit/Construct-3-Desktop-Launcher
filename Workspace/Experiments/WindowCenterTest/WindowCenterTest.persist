@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <persistence>
     <windows>
-        <event-sheet name="Layout 1 events" active="yes" />
+        <event-sheet name="Layout 1 events" active="no" />
     </windows>
 </persistence>
