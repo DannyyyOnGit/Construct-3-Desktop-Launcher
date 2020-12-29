@@ -12,4 +12,4 @@
 # Dependencies For Developers
 - Construct Classic R2
 - DirectX 9
-- Plugins (see dependencies folder)
+- Plugins + Effects
