@@ -1,4 +1,4 @@
-﻿# How To Push Main App Updates
+﻿# How To Push Updates
 1. Increment app version variable inside Mainapp
 2. Create archive of files inside "Appexports" folder
 3. Move archive into releases folder and upload
