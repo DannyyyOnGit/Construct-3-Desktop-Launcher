@@ -1,7 +1,6 @@
 <?xml version="1.0" ?>
 <persistence>
     <windows>
-        <event-sheet name="Main" active="no" />
-        <event-sheet name="Launch" active="yes" />
+        <event-sheet name="Launch" active="no" />
     </windows>
 </persistence>
