@@ -1,8 +1,12 @@
-[img="https://raw.githubusercontent.com/TheRealDannyyy/Construct-3-Desktop-Launcher/master/Distribution/header.png"]
+[img="https://raw.githubusercontent.com/DannyyyOnGit/Construct-3-Desktop-Launcher/master/Distribution/header.png"]
+[warning][b]THIS PROJECT HAS BEEN DEPRECATED![/b]
+The software itself might keep working but I will no longer provide support. Thanks for using it and thanks again to [@armaldio] for additional help with the back-end.
+[/warning]
+
 [tabgroup]
 [tab title="Software Information"]
 [h2]Downloads[/h2]
-[b]Construct 3 - Launcher:[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Launcher/raw/master/Releases/Construct%203%20-%20Launcher%20V2.2.2.zip]Download ➚[/url] | [b]GitHub (Source Code):[/b] [url=https://github.com/TheRealDannyyy/Construct-3-Desktop-Launcher]Open Link ➚[/url]
+[b]Construct 3 - Launcher:[/b] [url=https://github.com/DannyyyOnGit/Construct-3-Desktop-Launcher/raw/master/Releases/Construct%203%20-%20Launcher%20V2.2.2.zip]Download ➚[/url] | [b]GitHub (Source Code):[/b] [url=https://github.com/DannyyyOnGit/Construct-3-Desktop-Launcher]Open Link ➚[/url]
 
 [h2]Description[/h2]
 This software makes it easier to use the NWjs desktop build of Construct 3. Select custom release versions, enable developer features and automatically keep everything up to date.
@@ -15,7 +19,7 @@ This software makes it easier to use the NWjs desktop build of Construct 3. Sele
 [li]Use advanced features like [url=https://docs.nwjs.io/en/latest/References/Command%20Line%20Options/]Chromium-Args[/url] or enable [url=https://www.scirra.com/doc/c3sdk/safe-mode.html]Safe Mode[/url][/li]
 [/ul]
 [h2]Screenshot:[/h2]
-[img=https://raw.githubusercontent.com/TheRealDannyyy/Construct-3-Desktop-Launcher/master/Distribution/Construct%203%20-%20Launcher.PNG]
+[img=https://raw.githubusercontent.com/DannyyyOnGit/Construct-3-Desktop-Launcher/master/Distribution/Construct%203%20-%20Launcher.PNG]
 [/tab]
 
 [tab title="Software Changelog"]
@@ -80,8 +84,8 @@ This software makes it easier to use the NWjs desktop build of Construct 3. Sele
 [h2]Version 1.3.5[/h2]
 [b]<Fixed>[/b] Crash caused by scrolling through releases list during an update
 [b]<Fixed>[/b] Rare crash caused by spam-clicking update releases list button
-[b]<Fixed>[/b] Issue with the releases list sorting of subversions greater than 2
-[b]<Fixed>[/b] Minor design issues with the scolling buttons for the releases list
+[b]<Fixed>[/b] Issue with the releases list sorting of sub-versions greater than 2
+[b]<Fixed>[/b] Minor design issues with the scrolling buttons for the releases list
 [b]<Fixed>[/b] Section hover effect not working properly (the things on the left side)
 [b]<Other>[/b] Application restart is no longer required if a releases list update fails
 [b]<Other>[/b] Improvements to asset loading speed and slightly reduced memory usage
@@ -114,8 +118,8 @@ This software makes it easier to use the NWjs desktop build of Construct 3. Sele
 [tab title="Contributions & References"]
 [h2]About[/h2]
 [ul]
-[li]Thanks to [@Armaldio] for testing and for providing Construct 3 and NWjs version lists and web database![/li]
-[li]Software created using Construct Classic ([url=https://www.scirra.com/construct-classic]Open Link ➚[/url])[/li]
+[li]Thanks to [@Armaldio] for testing and for providing a dynamic database![/li]
+[li]Software created using Construct Classic ([url=https://sourceforge.net/projects/construct/]Open Link ➚[/url])[/li]
 [/ul]
 [/tab]
 [/tabgroup]
