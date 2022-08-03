@@ -4,7 +4,7 @@ These are incomplete database files to get the app running. If the database serv
 # Last Update
 August-03-2022
 
-﻿# How To Manually Install & Update Database Files
+# How To Manually Install & Update Database Files
 1. Download the "nwjs" and "releases" files (5 total)
 2. Put them in the "data" folder
 3. Open any ".c3v" file with a basic text editor
